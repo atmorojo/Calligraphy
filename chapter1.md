@@ -1,3 +1,3 @@
-# First Chapter
+# Kaligrafi
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Kaligrafi adalah seni menulis indah. Perbedaan kaligrafi dengan lettering terletak pada proses pembuatannya. Di mana dalam kaligrafi sebuah huruf terbentuk dari beberapa garis dasar 
