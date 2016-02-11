@@ -2,8 +2,9 @@
 
 * [Kata Pengantar](README.md)
 * [Kaligrafi](chapter1.md)
+    * Pengertian Kaligrafi
 * Peraturan Dasar
-* Kaligrafi Modern
 * Gaya-gaya Kaligrafi
-* Kaligrafi Klasik
+    * Kaligrafi Klasik
+    * Kaligrafi Modern
 
