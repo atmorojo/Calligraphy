@@ -5,4 +5,5 @@
 * Peraturan Dasar
 * Gaya-gaya Kaligrafi
 * Kaligrafi Klasik
+* Kaligrafi Modern
 
