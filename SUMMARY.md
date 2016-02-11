@@ -4,4 +4,5 @@
 * [Kaligrafi](chapter1.md)
 * Peraturan Dasar
 * Gaya-gaya Kaligrafi
+* Kaligrafi Klasik
 
