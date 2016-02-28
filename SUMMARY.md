@@ -6,7 +6,7 @@
 * Gaya-gaya Kaligrafi
    * Kaligrafi Klasik
        * Pointed Pen Calligraphy
-           * [Copperplate](English_Roundhand.md)
+           * [English Roundhand](English_Roundhand.md)
                * Peraturan Dasar
        * Broad Pen Calligraphy
    * Kaligrafi Modern
