@@ -1,2 +1,3 @@
-# Copperplate
+# English Roundhand
 
+*English Roundhand*, atau sering juga disebut *Copperplate*, *Engraver's/Engrosser's Script*, adalah salah satu gaya kaligrafi yang dibuat dengan pointed pen. Namun, banyak yang menyatakan bahwa penamaan gaya ini dengan *Copperplate* atau *Engraver's/Engrosser's Script* adalah penamaan yang kurang tepat jika dilihat dari sudut pandang bahasa maupun sejarah. Secara bahasa, *Copperplate* adalah plat tembaga yang digunakan dalam dunia percetakan dan tidak ada hubungannya sama sekali dengan gaya penulisan ini. Begitu juga *engrave* yang berarti mengukir, dan *engross* yang berarti menulis dengan tulisan yang besar, menarik, dan formal (biasanya digunakan dalam penulisan dokumen). Adapun awal mula penamaan copperplate, menurut Dr. Joseph Vitolo
