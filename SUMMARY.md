@@ -2,7 +2,7 @@
 
 * [Kata Pengantar](README.md)
 * [Kaligrafi](chapter1.md)
-   * Pengertian Kaligrafi
+   * Pengertian Kaligrafi(pengertian.md)
 * Gaya-gaya Kaligrafi
    * Kaligrafi Klasik
        * Pointed Pen Calligraphy
